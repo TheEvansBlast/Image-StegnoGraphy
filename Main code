@@ -17,7 +17,7 @@ class IMG_Stegno:
         frame = Frame(root)
         frame.grid()
 
-        title = Label(frame, text='Image Steganography')
+        title = Label(frame, text='Image Steganography by Deecode')
         title.config(font=('Times new roman', 24, 'bold'))
         title.grid(pady=5)
         title.config(bg='#e3f4f1')
